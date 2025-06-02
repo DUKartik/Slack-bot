@@ -1,4 +1,4 @@
-<h1>this project is all about slack bot</h1>
+<h1>This project is all about slack bot</h1>
 </br>
 <p>A Slack bot is an automated program or "robot" 
 that operates within the Slack messaging platform 
@@ -11,6 +11,7 @@ chat-like environment.
 <h3>Key Features of a Slack Bot:
 </h3>
 <p>
+
 1. Automated Responses: Bots can respond to specific commands, keywords, or natural language queries.
 
 2. Task Automation: They can automate tasks such as scheduling meetings, creating reminders, or managing to-do lists.
